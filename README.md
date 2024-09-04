@@ -30,5 +30,3 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=GiovanniBandeira&show_icons=true" />
 </picture>
-
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
