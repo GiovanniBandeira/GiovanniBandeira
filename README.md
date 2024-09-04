@@ -1,4 +1,5 @@
-# Fala, Dev. Sou Giôvanni!
+# Fala, Devs. 
+## Sou Giôvanni Bandeira!
 
 - Atualmento sou aluno de Ciência da Computação e estou em busca de Estágio.
 - Estou me desenvolvendo na área de Software Developer, estudando muito e buscando conhecimento. Gosto de programas FullStack, mas tenho interesse também em outros setores como banco de dados, mobile e DevOps.
@@ -29,7 +30,5 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=GiovanniBandeira&show_icons=true" />
 </picture>
-
-<img loading="lazy" src="[octocat-Giovanni](octocat-Giovanni.png)" width="auto" height="80"/>
 
 ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
