@@ -1,9 +1,8 @@
 # Fala, Devs. 
 ## Sou Giôvanni Bandeira!
 
-- Atualmento sou aluno de Ciência da Computação e estou em busca de Estágio.
-- Estou me desenvolvendo na área de Software Developer, estudando muito e buscando conhecimento. Gosto de programas FullStack, mas tenho interesse também em outros setores como banco de dados, mobile e DevOps.
-- Estou a procura de conhecimento, atrás de conseguir me desenvolver como um profissional.
+- Atualmento sou Analistad de Dados Júnior e Ciêntista da Computação.
+- Estou me especializando na área de Dados, estudando ciência, engenharia e análise.
 
 ### Tecnologias e Ferramentas
 
