@@ -1,8 +1,8 @@
 # Fala, Devs. 
 ## Sou Giôvanni Bandeira!
 
-- Atualmento sou Analistad de Dados Júnior e Ciêntista da Computação.
-- Estou me especializando na área de Dados, estudando ciência, engenharia e análise.
+- Sou CEO do Grupo Imagine, Analista de Dados e Ciêntista da Computação.
+- Sou apaixonado por tecnologia e inovação, sempre buscando novos conhecimentos e desenvolver soluções para o mundo.
 
 ### Tecnologias e Ferramentas
 
